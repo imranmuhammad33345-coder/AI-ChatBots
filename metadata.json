@@ -1,0 +1,9 @@
+{
+  "name": "UI Chatbots",
+  "description": "Next-generation AI platform featuring multi-model chat, image generation, code analysis, and anti-gravity UI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
